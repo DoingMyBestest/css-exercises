@@ -29,6 +29,10 @@ img {
 
 .plants {
   display: flex;
-  align-items: center;
+  justify-content: center;
   gap: 52px;
+}
+
+.group {
+  max-width: 200px;
 }
